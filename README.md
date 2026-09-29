@@ -63,4 +63,4 @@ paul@harmonyonline.org
 
 ## Licence
 
-No software licence has yet been assigned. The article's publication licence does not automatically determine the licence for these supporting software files.
+The recovered supporting software is released under the [MIT License](LICENSE). The published article remains subject to the publication licence stated by JCSER.
