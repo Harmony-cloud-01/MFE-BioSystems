@@ -8,7 +8,7 @@ authors:
     email: paul@harmonyonline.org
 repository-code: "https://github.com/Harmony-cloud-01/MFE-BioSystems"
 url: "https://doi.org/10.64820/AEPJCSER.31.31.37.62026"
-license: "NOASSERTION"
+license: "MIT"
 preferred-citation:
   type: article
   authors:
