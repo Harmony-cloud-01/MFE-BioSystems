@@ -1,13 +1,16 @@
 cff-version: 1.2.0
-message: "If you use these materials, please cite the published article."
+message: "If you use these materials, please cite this archived release and the published article."
 title: "MFE-BioSystems: Supporting materials for Magnetic-Field Confinement Regularisation for Biomedical Electromagnetic Systems"
 type: software
+version: "1.0.0"
+date-released: "2026-09-29"
+doi: "10.5281/zenodo.23035214"
 authors:
   - family-names: Markov
     given-names: Paul D.
     email: paul@harmonyonline.org
 repository-code: "https://github.com/Harmony-cloud-01/MFE-BioSystems"
-url: "https://doi.org/10.64820/AEPJCSER.31.31.37.62026"
+url: "https://doi.org/10.5281/zenodo.23035214"
 license: "MIT"
 preferred-citation:
   type: article
