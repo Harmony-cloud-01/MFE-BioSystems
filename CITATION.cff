@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the published article."
+title: "MFE-BioSystems: Supporting materials for Magnetic-Field Confinement Regularisation for Biomedical Electromagnetic Systems"
+type: software
+authors:
+  - family-names: Markov
+    given-names: Paul D.
+    email: paul@harmonyonline.org
+repository-code: "https://github.com/Harmony-cloud-01/MFE-BioSystems"
+url: "https://doi.org/10.64820/AEPJCSER.31.31.37.62026"
+license: "NOASSERTION"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Markov
+      given-names: Paul D.
+  title: "Magnetic-Field Confinement Regularisation for Biomedical Electromagnetic Systems"
+  journal: "Journal of Computer Science and Engineering Research (JCSER)"
+  volume: 3
+  issue: 1
+  start: 31
+  end: 37
+  year: 2026
+  doi: "10.64820/AEPJCSER.31.31.37.62026"
